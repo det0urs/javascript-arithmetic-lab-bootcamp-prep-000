@@ -23,11 +23,8 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-var number = 7;
-function inc(){
-  return n++//1;
-}
-number++
+++number//5
+number +=3
 
 
   
