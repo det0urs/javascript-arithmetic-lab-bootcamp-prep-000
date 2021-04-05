@@ -23,12 +23,4 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-var number = 10
-function add5() {
-  number+= 5
-}
-let x = 3;
-const y = x++;
 
-console.log(`x:${x}, y:${y}`);
-  
