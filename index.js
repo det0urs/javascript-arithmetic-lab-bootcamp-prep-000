@@ -23,8 +23,10 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-++number//5
-number +=3
+var number = 10
+function add5() {
+  number+= 5
+}
 
 
   
