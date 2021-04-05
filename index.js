@@ -23,4 +23,8 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
+let x = 3;
+y = x++;
 
+// y = 3
+// x = 4
