@@ -23,7 +23,7 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-var n = 0;
+var n = 1;
 
 function increment(){
 
