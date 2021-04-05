@@ -23,9 +23,11 @@ function preserveDecimal(n) {
   return parseFloat(n)
 }
 
-var number = 7
+var number = 7;
 
-number++ 
+function add6(){
+  number += 7;
+}
 
 
   
