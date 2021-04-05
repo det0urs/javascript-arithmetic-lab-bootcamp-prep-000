@@ -24,7 +24,9 @@ function preserveDecimal(n) {
 }
 
 var number = 7;
-
+function inc(){
+  return n++//1;
+}
 
 
 
