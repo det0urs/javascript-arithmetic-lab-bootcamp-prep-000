@@ -23,9 +23,4 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-var n = 1;
-function increment(){
-
-  n+= 3;
-  return n;
-}
+let 
