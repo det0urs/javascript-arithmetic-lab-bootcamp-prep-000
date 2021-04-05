@@ -23,10 +23,9 @@ function preserveDecimal(n) {
   return parseFloat(n)
 }
 
-function inc(a){ //Increment a by 1 and return the result.
-  number = a + 1;
-  return number;
-}
+var number = 7
+
+number++ 
 
 
   
