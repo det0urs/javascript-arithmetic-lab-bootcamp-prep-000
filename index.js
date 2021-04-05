@@ -23,6 +23,3 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-let n = 1;
-console.log(n++); //1
-console.log(n); //2
