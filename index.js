@@ -22,15 +22,7 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n)
 }
-var n = 956;
-function increment(){
-  n++;
-  return n;
-}
-var n = 569;
-function decrement(){
-  n--;
-  return n;
-}
+
+
        
   
