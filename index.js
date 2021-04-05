@@ -23,4 +23,4 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-let n
+let n = 1;
