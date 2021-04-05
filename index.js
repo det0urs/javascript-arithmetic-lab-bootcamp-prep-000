@@ -25,9 +25,7 @@ function preserveDecimal(n) {
 
 var number = 7;
 
-function add6(){
-  number += 7;
-}
+
 
 
   
