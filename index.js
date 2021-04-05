@@ -25,4 +25,4 @@ function preserveDecimal(n) {
 
 let n = 1;
 console.log(n++); //1
-console.log
+console.log(n);
