@@ -24,7 +24,6 @@ function preserveDecimal(n) {
 }
 
 var n = 1;
-
 function increment(){
 
   n+= 3;
