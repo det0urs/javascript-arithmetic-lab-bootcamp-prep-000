@@ -27,7 +27,7 @@ var number = 7;
 function inc(){
   return n++//1;
 }
-
+number++
 
 
   
