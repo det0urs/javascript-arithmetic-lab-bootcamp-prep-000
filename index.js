@@ -25,10 +25,5 @@ function preserveDecimal(n) {
 
 var n = 0;
 
-function increment(){
 
-  n++;
-  return n;
-}
-       
   
