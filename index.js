@@ -23,8 +23,10 @@ function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-let x = 3;
-y = x++;
+var n = 0;
 
-// y = 3
-// x = 4
+function increment(){
+
+  n++;
+  return n;
+}
